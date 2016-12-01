@@ -1,11 +1,7 @@
-# hello_world
-This is our first git hub repo! Yay! This is "fun"!
+These are words that i want to keep
 
+Add more or less 
 
-**This is bold**
+Bla bla bla
 
-:smile:
-:frown:
-:cry:
-:dog:
-:banana:
+Text that tests that thers stuff here
